@@ -1,0 +1,27 @@
+{
+  "name": "aula-dio",
+  "version": "1.0.0",
+  "description": "*Bem vindo!!*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lira1705/mentoria-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lira1705/mentoria-typescript/issues"
+  },
+  "homepage": "https://github.com/lira1705/mentoria-typescript#readme"
+}
